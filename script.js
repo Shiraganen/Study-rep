@@ -22,7 +22,7 @@ function divideNumbers() {
 
 // Обработчик некорректного ввода
 function handleInvalidInput() {
-  resultDiv.textContent = 'Некорректные значения! Пожалуйста, введите числитель и знаменатель.';
+  resultDiv.textContent = 'Некорректные значения! Пожалуйста, введите числительный и знаменательный.';
   numeratorInput.classList.add('invalid');
   denominatorInput.classList.add('invalid');
 

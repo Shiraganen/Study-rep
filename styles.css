@@ -5,15 +5,9 @@
 }
 
 input[type="number"], button {
-  margin-bottom: 10px;
-  padding: 5px;
+  margin-bottom: 44px;
+  padding: 12px;
   width: 100%;
-}
-
-#result {
-  margin-top: 10px;
-  font-weight: bold;
-  color: green;
 }
 
 .invalid {
